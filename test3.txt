@@ -9,3 +9,4 @@ made changes in jenkins configuration to see if build when change is pushed work
 changes to see if auto build works
 
 see if build step works
+.bat file works or not
