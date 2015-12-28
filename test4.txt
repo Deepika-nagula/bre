@@ -7,3 +7,5 @@ Testing for cherrypick
 changes to see if auto build works
 
 changes to see if jenkins notifies git commit
+
+gave permissions to hooks directory
