@@ -2,4 +2,4 @@ test.txt is changed
 
 CHANGES to see auto build when commit
 
-changes
+changes see if .bat file works
