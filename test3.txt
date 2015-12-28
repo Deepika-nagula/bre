@@ -5,3 +5,5 @@ testing for branch1
 changes to see if auto build works
 
 made changes in jenkins configuration to see if build when change is pushed works
+
+changes to see if auto build works
