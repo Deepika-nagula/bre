@@ -8,4 +8,4 @@ post receive
 
 created webhook in github
 
-updated jenkins-github plugin configuration
+updated jenkins-github plugin configuration and job configuration
