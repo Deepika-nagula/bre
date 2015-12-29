@@ -7,3 +7,5 @@ changes see if .bat file works
 post receive
 
 created webhook in github
+
+updated jenkins-github plugin configuration
