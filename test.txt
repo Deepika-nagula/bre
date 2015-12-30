@@ -13,3 +13,5 @@ updated jenkins-github plugin configuration and job configuration
 see if build when pushed to github works
 
 updated few changes
+
+mader changes to see if post commit works
