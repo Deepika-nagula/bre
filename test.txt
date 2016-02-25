@@ -21,3 +21,5 @@ modified file test.txt
 this is modifed to see if auto commit works
 
 changes
+
+file changed
