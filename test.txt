@@ -17,3 +17,5 @@ updated few changes
 mader changes to see if post commit works
 
 modified file test.txt
+
+this is modifed to see if auto commit works
