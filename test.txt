@@ -24,3 +24,5 @@ changes
 
 CHANGES TO SEE IF AUTO-COMMIT WORKS
 file changed
+
+auto-commit
