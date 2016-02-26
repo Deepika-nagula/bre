@@ -22,4 +22,5 @@ this is modifed to see if auto commit works
 
 changes
 
+CHANGES TO SEE IF AUTO-COMMIT WORKS
 file changed
