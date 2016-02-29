@@ -25,4 +25,5 @@ changes made to test.txt
 CHANGES TO SEE IF AUTO-COMMIT WORKS
 file changed
 changes
+changes
 auto-commit
