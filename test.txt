@@ -21,7 +21,7 @@ modified file test.txt
 this is modifed to see if auto commit works
 
 changes
-
+changes made to test.txt
 CHANGES TO SEE IF AUTO-COMMIT WORKS
 file changed
 
